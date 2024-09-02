@@ -1,7 +1,7 @@
 1. git status - to check the git status
 2. git init -  to initialize a directory as git repo adds a .git hidden directory
 3. git add - 
-4. git commit
+4. git commit - commits the changes in the git repo
 5. git log
 6. git diff <filename>
 7. git config --global user.name "kee"
