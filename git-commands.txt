@@ -1,1 +1,11 @@
-1. git status
+1. git status - to check the git status
+2. git init -  to initialize a directory as git repo adds a .git hidden directory
+3. git add - 
+4. git commit
+5. git log
+6. git diff <filename>
+7. git config --global user.name "kee"
+8. git config --global user.email keerthanr9105@gmail.com
+9. git config user.name "kee"
+10. git config user.email keerthanar9105@gmail.com
+11. git rm --cached <file> -  to unstage a file from git
